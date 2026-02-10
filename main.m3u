@@ -93,9 +93,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="News",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="EkusheyTV.bd",Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="TimeTelevision.us",Time Television
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Boishakhi.bd",Boishakhi
@@ -152,3 +149,4 @@ https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/62407
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8
 #EXTINF:-1 tvg-id="truTVEast.us",truTV East (Adaptive) (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/truTVEast.us.m3u8
+
